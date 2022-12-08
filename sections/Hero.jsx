@@ -12,7 +12,8 @@ const Hero = () => (<section className={`${styles.yPaddings} sm:pl-16 pl-6`}>
                 <motion.div className='flex flex-row justify-center items-center' variants={textVariant(1.2)}>
                     <h1 className={`${styles.heroHeading}`}>Ma</h1>
                     <div className={`${styles.heroDText}`}></div>
-                    <h1 className={`${styles.heroHeading}`}>Ness</h1>
+                    <h1 className={`${styles.heroHeading}`}>Nes</h1>
+                    <h1 className={`${styles.heroHeading}`}>Into Metaverse</h1>
                 </motion.div>
             </motion.h1>
         </div>
