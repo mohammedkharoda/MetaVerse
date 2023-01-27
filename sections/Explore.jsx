@@ -10,7 +10,7 @@ import { ExploreCard, TitleText, TypingText } from '../components';
 
 const Explore = () => {
   const [active, setActive] = useState('world-2');
-
+// Explore main page 
   return (
     <section className={`${styles.paddings}`} id="explore">
       <motion.div
