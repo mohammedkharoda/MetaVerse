@@ -8,12 +8,12 @@ import Insights from './Insights';
 import Feedback from './Feedback';
 
 export {
-  Hero,
-  About,
-  Explore,
-  GetStarted,
-  WhatsNew,
-  World,
-  Insights,
-  Feedback,
+    Hero,
+    About,
+    Explore,
+    GetStarted,
+    WhatsNew,
+    World,
+    Insights,
+    Feedback,
 };

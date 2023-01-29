@@ -1,9 +1,5 @@
-'use client';
+"use client";
 
-const Insights = () => (
-  <section>
-    Insights section
-  </section>
-);
+const Insights = () => <section> </section>;
 
 export default Insights;
