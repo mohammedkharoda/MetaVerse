@@ -43,12 +43,12 @@ const World = () => (
           <img src="people-03.png" alt="people" className="w-full h-full" />
         </div>
         {/* ---- guy-4 ---- */}
-        {/* <div className="absolute top-2/4 left-[20%] w-[190px] h-auto p-[6px] rounded-[15px] bg-[#5d6680]">
+        <div className="absolute top-2/4 left-[20%] w-[190px] h-auto p-[6px] rounded-[15px] bg-[#5d6680]">
           <img src="mask-group.png" alt="people" className="w-full h-full" />
           <h1 className="absolute left-[25%] bottom-[3rem] text-white">
             + 264 has joined
           </h1>
-        </div> */}
+        </div>
       </motion.div>
     </motion.div>
   </section>
