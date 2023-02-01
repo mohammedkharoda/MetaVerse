@@ -25,6 +25,7 @@ const World = () => (
         }
         textStyles="text-center"
       />
+      {/* motion-div */}
       <motion.div
         variants={fadeIn("up", "tween", 0.3, 1)}
         className="relative mt-[68px] flex w-full h0 [550px]"
